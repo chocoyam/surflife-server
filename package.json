@@ -1,0 +1,24 @@
+{
+  "name": "surflife",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "cheerio": "^1.0.0-rc.1",
+    "date-utils": "^1.2.21",
+    "moment-timezone": "^0.5.13",
+    "mongoose-search-plugin": "^0.1.2",
+    "mongoose-text-search": "0.0.2",
+    "node-schedule": "^1.2.3",
+    "request": "^2.81.0",
+    "winston": "^2.3.1",
+    "winston-daily-rotate-file": "^1.4.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
