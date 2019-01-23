@@ -1,1 +1,1 @@
-# surflife
+# surflife-server
